@@ -170,41 +170,6 @@ Visitor Count
  <p align="center"> <i>"First, solve the problem. Then, write the code."</i><br/> <b>- John Johnson</b> </p>
 
  <p align="center"> <b>⭐ Star my repos if you find them helpful! ⭐</b> </p><p align="center"> <i>Let's build something amazing together! 🚀</i> </p> ```
-🔧 GitHub Actions Workflow (for Snake Game)
-File: .github/workflows/snake.yml
-yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Kalaiarasan-Dev
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-          
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "chore: update snake animation"
 # Project URLs
 your-store.vercel.app → Your actual deployed store
 your-dashboard.vercel.app → Your actual dashboard
