@@ -65,4 +65,4 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 ## 🐍 Play Snake Game!
 
 > Click the image below to play the classic Snake game!
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+![Snake animation](https://github.com/YOUR_USERNAME/Kalaiarasan-Dev/blob/output/github-snake.svg)
