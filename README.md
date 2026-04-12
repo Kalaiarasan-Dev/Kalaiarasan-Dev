@@ -26,11 +26,6 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 </p>
 
 ---
-### 📈 Enterprise Engineering Focus
-I don't just build components; I build systems. My current SaaS work includes:
-- **State Management:** Complex data flow using `useReducer` and `Context API`.
-- **API Optimization:** Reducing redundant calls via SWR/React Query.
-- **Micro-Interactions:** Using **Framer Motion** to make data feel alive.
 
 ### 🚀 Featured Projects
 
