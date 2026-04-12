@@ -120,29 +120,3 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-```text
-TypeScript    8 hrs ████████████████████░  40%
-React         6 hrs ███████████████░░░░░░  30%
-CSS/Tailwind  3 hrs ████████░░░░░░░░░░░░░  15%
-Content       3 hrs ████████░░░░░░░░░░░░░  15%
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p>
-
-Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" /> </p>
-<p align="center"> <i>"Code is like humor. When you have to explain it, it's bad."</i> </p><p align="center"> <b>⭐ Show some love by starring my repos! ⭐</b> </p> ``
-
-# Clone the repository
-git clone https://github.com/Kalaiarasan-Dev/Kalaiarasan-Dev.git
-cd Kalaiarasan-Dev
-
-# Create README.md with the content above
-# Add the .github/workflows/snake.yml file
-
-# Push to GitHub
-git add .
-git commit -m "feat: add profile README with snake game"
-git push origin main
