@@ -187,4 +187,44 @@ kalaigurusamy8@gmail.com
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<!-- Complete Responsive Footer -->
+<footer style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 1rem; margin-top: 3rem;">
+  <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
+    <!-- Social Links -->
+    <div style="display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+      <a href="https://github.com/Kalaiarasan-Dev" target="_blank" style="color: #fff; background: #333; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; transition: all 0.3s;">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://linkedin.com/in/kalaiarasan10" target="_blank" style="color: #fff; background: #0077B5; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+      <a href="https://youtube.com/@CodeWithKalai" target="_blank" style="color: #fff; background: #FF0000; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </div>
+    
+    <!-- Signature -->
+    <div style="margin-bottom: 1rem;">
+      <span style="background: linear-gradient(135deg, #61DAFB, #8B5CF6); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: bold; font-size: 1.2rem;">
+        Developed with 💙 by Kalaiarasan
+      </span>
+    </div>
+    
+    <!-- Tech Stack -->
+    <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">React</span>
+      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">TypeScript</span>
+      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">Tailwind</span>
+      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">Next.js</span>
+    </div>
+    
+    <!-- Copyright -->
+    <div style="color: #64748b; font-size: 0.75rem;">
+      © 2026 Kalaiarasan. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+<!-- Font Awesome for Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
