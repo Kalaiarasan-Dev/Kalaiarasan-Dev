@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Scalable%20Web-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?label=Follow&style=for-the-badge&color=61DAFB" />
-  <img src="https://img.shields.io/youtube/@CodeWithKalai/subscribers/UCxxxx?style=for-the-badge&logo=youtube&label=YouTube&color=FF0000" alt="YouTube Subscribers" />
+ <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxx?style=for-the-badge&logo=youtube&label=YouTube&color=FF0000" alt="YouTube Subscribers" />
 </p>
 
 ---
