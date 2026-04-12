@@ -46,7 +46,7 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 ---
 
 ### 🎞️ Latest from CodeWithKalai
-- 📺 [Building a Glassmorphic Dashboard with React](https://youtube.com/c/CodeWithKalai)
+- 📺 HTML CSS Flower Animation Tutorial 🌺 | Step-by-Step (Beginner Friendly)(https://youtube.com/@CodeWithKalai)
 - 📺 [TypeScript Tips for Frontend Developers](https://youtube.com/c/CodeWithKalai)
 - 📺 [Figma to React: Responsive Landing Pages](https://youtube.com/c/CodeWithKalai)
 
