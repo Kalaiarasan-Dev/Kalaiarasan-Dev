@@ -65,5 +65,6 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 ## 🐍 Play Snake Game!
 
 > Click the image below to play the classic Snake game!
-
-[![Snake Game](https://via.placeholder.com/800x200/1a1a2e/4ecdc4?text=🐍+Click+to+Play+Snake+Game+🐍)](https://Kalaiarasan-Dev.github.io/snake-game)
+<p align="center">
+  <img src="https://github-readme-snake.vercel.app/api/snake?github_user=YOUR_USERNAME&color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9" alt="Snake Game" />
+</p>
