@@ -54,8 +54,8 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://youtube.com/c/CodeWithKalai" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CodeWithKalai" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kalaiarasan" /></a>
+<a href="https://youtube.com/@CodeWithKalai" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CodeWithKalai" /></a>
+<a href="https://linkedin.com/in/kalaiarasan10" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kalaiarasan" /></a>
 </p>
 
 <p align="center">
