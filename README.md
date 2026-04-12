@@ -187,20 +187,9 @@ kalaigurusamy8@gmail.com
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<!-- Complete Responsive Footer -->
-<footer style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 1rem; margin-top: 3rem;">
-  <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
-    <!-- Social Links -->
-    <div style="display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
-      <a href="https://github.com/Kalaiarasan-Dev" target="_blank" style="color: #fff; background: #333; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; transition: all 0.3s;">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://linkedin.com/in/kalaiarasan10" target="_blank" style="color: #fff; background: #0077B5; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-      <a href="https://youtube.com/@CodeWithKalai" target="_blank" style="color: #fff; background: #FF0000; width: 40px; height: 40px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">
-        <i class="fab fa-youtube"></i>
-      </a>
-    </div>
+<!-- SVG Badge for GitHub -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kalaiarasan-Dev/Kalaiarasan-Dev/main/assets/badge.svg" width="200" alt="Developed by Kalaiarasan" />
+</p>
     
  
