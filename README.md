@@ -62,3 +62,8 @@ I am a **Frontend Engineer** dedicated to building polished, high-performance we
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
+## 🐍 Play Snake Game!
+
+> Click the image below to play the classic Snake game!
+
+[![Snake Game](https://via.placeholder.com/800x200/1a1a2e/4ecdc4?text=🐍+Click+to+Play+Snake+Game+🐍)](https://Kalaiarasan-Dev.github.io/snake-game)
