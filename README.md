@@ -187,9 +187,8 @@ kalaigurusamy8@gmail.com
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<!-- SVG Badge for GitHub -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kalaiarasan-Dev/Kalaiarasan-Dev/main/assets/badge.svg" width="200" alt="Developed by Kalaiarasan" />
+  <i>Developed with 💙 by <b>Kalaiarasan</b></i><br/>
+  <sub>Frontend Developer | React & TypeScript Expert</sub>
 </p>
-    
  
