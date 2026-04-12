@@ -203,28 +203,4 @@ kalaigurusamy8@gmail.com
       </a>
     </div>
     
-    <!-- Signature -->
-    <div style="margin-bottom: 1rem;">
-      <span style="background: linear-gradient(135deg, #61DAFB, #8B5CF6); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: bold; font-size: 1.2rem;">
-        Developed with 💙 by Kalaiarasan
-      </span>
-    </div>
-    
-    <!-- Tech Stack -->
-    <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
-      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">React</span>
-      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">TypeScript</span>
-      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">Tailwind</span>
-      <span style="background: rgba(97, 218, 251, 0.1); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; color: #61DAFB;">Next.js</span>
-    </div>
-    
-    <!-- Copyright -->
-    <div style="color: #64748b; font-size: 0.75rem;">
-      © 2026 Kalaiarasan. All rights reserved.
-    </div>
-  </div>
-</footer>
-
-<!-- Font Awesome for Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
+ 
