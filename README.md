@@ -127,3 +127,10 @@ TypeScript    8 hrs ████████████████████
 React         6 hrs ███████████████░░░░░░  30%
 CSS/Tailwind  3 hrs ████████░░░░░░░░░░░░░  15%
 Content       3 hrs ████████░░░░░░░░░░░░░  15%
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p>
+
+Visitor Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="center"> <i>"Code is like humor. When you have to explain it, it's bad."</i> </p><p align="center"> <b>⭐ Show some love by starring my repos! ⭐</b> </p> ``
