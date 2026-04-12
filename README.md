@@ -205,49 +205,6 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "chore: update snake animation"
-🚀 Setup Instructions
-Step 1: Create Repository
-bash
-# Repository name must be: Kalaiarasan-Dev
-# This creates your profile README
-Step 2: Add Files
-bash
-git clone https://github.com/Kalaiarasan-Dev/Kalaiarasan-Dev.git
-cd Kalaiarasan-Dev
-
-# Create README.md (paste the content above)
-# Create .github/workflows/snake.yml
-
-git add .
-git commit -m "feat: add professional frontend developer profile"
-git push origin main
-Step 3: Enable GitHub Pages
-Settings → Pages
-
-Source: Deploy from branch
-
-Branch: output → / (root)
-
-Save
-
-Step 4: Run Workflow
-Actions tab
-
-Select "Generate Snake Animation"
-
-Run workflow
-
-✅ What Recruiters Will See
-Section	Impact
-Typing Animation	Eye-catching intro
-Tech Stack Icons	Quick skill assessment
-Featured Projects	Proof of work with live demos
-GitHub Stats	Activity & consistency
-YouTube Content	Communication skills
-Open for Opportunities	Clear CTA for recruiters
-Snake Game	Fun, memorable element
-📝 Update These Placeholders
-yaml
 # Project URLs
 your-store.vercel.app → Your actual deployed store
 your-dashboard.vercel.app → Your actual dashboard
@@ -255,7 +212,7 @@ your-tasks.vercel.app → Your actual task manager
 kalaiarasan-dev.vercel.app → Your portfolio URL
 
 # Email
-kalaiarasan@example.com → Your actual email
+kalaigurusamy8@.com → Your actual email
 
 # Twitter
 @Kalaiarasan_Dev → Your actual Twitter handle
@@ -267,7 +224,7 @@ markdown
   <img src="https://img.shields.io/badge/Style-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-Your GitHub profile is now job-ready and showcases you as a professional Frontend Developer! 🚀
 
 
 
+/
