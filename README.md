@@ -170,6 +170,7 @@ Visitor Count
  <p align="center"> <i>"First, solve the problem. Then, write the code."</i><br/> <b>- John Johnson</b> </p>
 
  <p align="center"> <b>⭐ Star my repos if you find them helpful! ⭐</b> </p><p align="center"> <i>Let's build something amazing together! 🚀</i> </p> ```
+
 # Project URLs
 your-store.vercel.app → Your actual deployed store
 your-dashboard.vercel.app → Your actual dashboard
@@ -179,17 +180,4 @@ kalaiarasan-dev.vercel.app → Your portfolio URL
 # Email
 kalaigurusamy8@.com → Your actual email
 
-# Twitter
-@Kalaiarasan_Dev → Your actual Twitter handle
-🎯 Optional: Add More Badges
-markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
 
-
-
-/
