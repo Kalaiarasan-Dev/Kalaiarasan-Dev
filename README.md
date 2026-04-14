@@ -53,7 +53,7 @@ I share my frontend journey on **YouTube** - tutorials, projects, and tips for a
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
 | **Minimalist E-Commerce** | React, TS, Tailwind, Redux | Full-featured store with cart, wishlist, and checkout | [🌐 Demo](https://your-store.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/ecommerce) |
-| **Analytics Dashboard** | Next.js, TS, Recharts, Tailwind | Real-time analytics with beautiful data visualization | [🌐 Demo](https://your-dashboard.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/dashboard) |
+| **Analytics Dashboard** | Next.js, TS, Recharts, Tailwind | Real-time analytics with beautiful data visualization | [🌐 Demo](https://analysticsdashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/dashboard) |
 | **Task Manager Pro** | React, TS, LocalStorage, DnD | Drag-drop task management with filters & dark mode | [🌐 Demo](https://your-tasks.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/task-manager) |
 | **Portfolio 2026** | React, Framer Motion, CSS3 | Modern portfolio with glassmorphism & animations | [🌐 Demo](https://kalaiarasan-dev.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/portfolio) |
 
