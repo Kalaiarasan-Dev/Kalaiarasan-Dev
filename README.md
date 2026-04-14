@@ -41,10 +41,10 @@ I share my frontend journey on **YouTube** - tutorials, projects, and tips for a
 | **Core** | React 18, Next.js 14, TypeScript, JavaScript ES6+ | ⭐⭐⭐⭐⭐ |
 | **Styling** | Tailwind CSS, CSS Modules, SCSS, Styled Components | ⭐⭐⭐⭐⭐ |
 | **State** | Redux Toolkit, Zustand, Context API, React Query | ⭐⭐⭐⭐ |
-| **UI/UX** | Framer Motion, Figma, Adobe XD, Responsive Design | ⭐⭐⭐⭐ |
+| **UI/UX** | Framer Motion, Figma, Responsive Design | ⭐⭐⭐⭐ |
 | **Testing** | Jest, React Testing Library, Vitest | ⭐⭐⭐ |
 | **Tools** | Git, GitHub, VS Code, Postman, Vite, Webpack | ⭐⭐⭐⭐⭐ |
-| **Deployment** | Vercel, Netlify, GitHub Pages, AWS (basic) | ⭐⭐⭐⭐ |
+| **Deployment** | Vercel, Netlify, GitHub Pages | ⭐⭐⭐⭐ |
 
 ---
 
@@ -53,7 +53,7 @@ I share my frontend journey on **YouTube** - tutorials, projects, and tips for a
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
 | **Minimalist E-Commerce** | React, TS, Tailwind, Redux | Full-featured store with cart, wishlist, and checkout | [🌐 Demo](https://your-store.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/ecommerce) |
-| **Analytics Dashboard** | react js ts nexr js| Real-time analytics with beautiful data visualization | [🌐 Demo](https://analysticsdashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/Analytics-Dashboard )|
+| **Analytics Dashboard** | React, JS, Chart.js | Real-time analytics with beautiful data visualization | [🌐 Demo](https://analysticsdashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/Analytics-Dashboard) |
 | **Task Manager Pro** | React, TS, LocalStorage, DnD | Drag-drop task management with filters & dark mode | [🌐 Demo](https://your-tasks.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/task-manager) |
 | **Portfolio 2026** | React, Framer Motion, CSS3 | Modern portfolio with glassmorphism & animations | [🌐 Demo](https://kalaiarasan-dev.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/portfolio) |
 
@@ -139,7 +139,7 @@ I'm actively looking for **Frontend Developer** roles where I can:
   <a href="https://youtube.com/@CodeWithKalai" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="mailto:kalaiarasan@example.com" target="_blank">
+  <a href="mailto:kalaigurusamy8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/Kalaiarasan_Dev" target="_blank">
@@ -163,22 +163,24 @@ I'm actively looking for **Frontend Developer** roles where I can:
   <i>The snake eats your contributions! 🐍</i>
 </p>
 
-Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" /> </p>
+---
 
- Favorite Quote
- <p align="center"> <i>"First, solve the problem. Then, write the code."</i><br/> <b>- John Johnson</b> </p>
+## 📊 Visitor Count
 
- <p align="center"> <b>⭐ Star my repos if you find them helpful! ⭐</b> </p><p align="center"> <i>Let's build something amazing together! 🚀</i> </p> ```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
+</p>
 
-# Project URLs
-your-store.vercel.app → Your actual deployed store
-your-dashboard.vercel.app → Your actual dashboard
-your-tasks.vercel.app → Your actual task manager
-kalaiarasan-dev.vercel.app → Your portfolio URL
+---
 
-# Email
-kalaigurusamy8@gmail.com 
+## 💬 Favorite Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br/>
+  <b>- John Johnson</b>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -188,7 +190,16 @@ kalaigurusamy8@gmail.com
 </p>
 
 <p align="center">
+  <b>⭐ Star my repos if you find them helpful! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together! 🚀</i>
+</p>
+
+---
+
+<p align="center">
   <i>Developed with 💙 by <b>Kalaiarasan</b></i><br/>
   <sub>Frontend Developer | React & TypeScript Expert</sub>
 </p>
- 
