@@ -1,70 +1,71 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kalaiarasan;Frontend+Developer;React+%26+TypeScript+Expert;Building+Beautiful+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kalaiarasan;Frontend+Engineer+%26+UI+Architect;React+%26+TypeScript+Specialist;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?label=Follow&style=for-the-badge&color=61DAFB" />
+  <a href="https://linkedin.com/in/kalaiarasan10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Kalaiarasan-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://youtube.com/@CodeWithKalai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?label=Network&style=for-the-badge&color=61DAFB" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I'm a **Frontend Developer** passionate about building responsive, accessible, and performant web applications. I turn designs into code and ideas into reality.
+I am a **Frontend Engineer** dedicated to bridging the gap between complex design and high-performance code. I specialize in building scalable web applications using the **React ecosystem** with a heavy emphasis on type safety, architectural integrity, and pixel-perfect UI.
 
-### 🎯 Quick Facts
-- 🔭 **Currently:** Building production-ready React applications
-- 🌱 **Learning:** Advanced Next.js patterns & Server Components
-- 👯 **Looking for:** Frontend Developer opportunities (Full-time)
-- 💬 **Ask me about:** React, TypeScript, Tailwind CSS
-- ⚡ **Fun fact:** I love creating pixel-perfect UIs
-- 📍 **Location:** India
-- 🎯 **Goal:** 1000+ GitHub stars by end of 2026
-
-### 🎥 Content Creator
-I share my frontend journey on **YouTube** - tutorials, projects, and tips for aspiring developers.
+### 🎯 Strategic Focus
+- 🔭 **Current Venture:** Architecting enterprise-grade React systems and Design Systems.
+- 🌱 **Expertise Expansion:** Mastering Next.js 15 (App Router), Server Components, and Performance Optimization.
+- ⚡ **Performance Mindset:** Obsessed with Core Web Vitals, Accessibility (a11y), and clean code patterns.
+- 📍 **Based in:** India (Available for Global Opportunities)
+- 🎯 **2026 Milestone:** Contributing to 5+ major Open Source projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Ecosystem
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,vscode,figma,vercel,netlify" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,vscode,figma,vercel,netlify,postman,vitest" />
 </p>
 
-### Frontend Mastery
+### The Stack Hierarchy
 
-| Category | Technologies | Proficiency |
-|----------|--------------|-------------|
-| **Core** | React 18, Next.js 14, TypeScript, JavaScript ES6+ | ⭐⭐⭐⭐⭐ |
-| **Styling** | Tailwind CSS, CSS Modules, SCSS, Styled Components | ⭐⭐⭐⭐⭐ |
-| **State** | Redux Toolkit, Zustand, Context API, React Query | ⭐⭐⭐⭐ |
-| **UI/UX** | Framer Motion, Figma, Responsive Design | ⭐⭐⭐⭐ |
-| **Testing** | Jest, React Testing Library, Vitest | ⭐⭐⭐ |
-| **Tools** | Git, GitHub, VS Code, Postman, Vite, Webpack | ⭐⭐⭐⭐⭐ |
-| **Deployment** | Vercel, Netlify, GitHub Pages | ⭐⭐⭐⭐ |
+| Domain | Technologies | Mastery |
+| :--- | :--- | :--- |
+| **Frontend Core** | React 18/19, Next.js 14/15, TypeScript, Modern JS (ES6+) | ⭐⭐⭐⭐⭐ |
+| **Styling & UI** | Tailwind CSS, Framer Motion, Radix UI, CSS Modules | ⭐⭐⭐⭐⭐ |
+| **State & Data** | TanStack Query (React Query), Redux Toolkit, Zustand | ⭐⭐⭐⭐⭐ |
+| **Architecture** | Atomic Design, Feature-Sliced Design (FSD), Monorepos | ⭐⭐⭐⭐ |
+| **Quality Assurance** | Vitest, Jest, React Testing Library, Playwright | ⭐⭐⭐⭐ |
+| **Design Tools** | Figma (Advanced Prototyping), Adobe Suite | ⭐⭐⭐⭐⭐ |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Impact Projects
 
-| Project | Tech Stack | Description | Links |
+| Project | Core Tech | Key Features | Links |
 | :--- | :--- | :--- | :--- |
-| **Minimalist E-Commerce** | React, TS, Tailwind, Redux | Full-featured store with cart, wishlist, and checkout | [🌐 Demo](https://your-store.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/ecommerce) |
-| **Analytics Dashboard** | React, JS, Chart.js | Real-time analytics with beautiful data visualization | [🌐 Demo](https://analysticsdashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/Analytics-Dashboard) |
-| **Task Manager Pro** | React, TS, LocalStorage, DnD | Drag-drop task management with filters & dark mode | [🌐 Demo](https://your-tasks.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/task-manager) |
-| **Portfolio 2026** | React, Framer Motion, CSS3 | Modern portfolio with glassmorphism & animations | [🌐 Demo](https://kalaiarasan-dev.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/portfolio) |
-
-### 🎮 Mini Projects
-- 🐍 [Snake Game](https://github.com/Kalaiarasan-Dev/snake-game) - Classic arcade game with vanilla JS
-- 🌦️ [Weather App](https://github.com/Kalaiarasan-Dev/weather-app) - Real-time weather with OpenWeather API
-- 📝 [Markdown Notes](https://github.com/Kalaiarasan-Dev/markdown-notes) - Note-taking app with markdown support
+| **Elite Commerce** | Next.js, TS, Stripe | High-performance storefront with localized payments. | [🌐 Demo](https://your-store.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/ecommerce) |
+| **Real-time Analytics** | React, Recharts, WS | Complex data visualization with < 100ms latency. | [🌐 Demo](https://analytics-dashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/Analytics-Dashboard) |
+| **Task Manager Pro** | React, DnD-Kit, TS | Enterprise task tracking with optimistic UI updates. | [🌐 Demo](https://your-tasks.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/task-manager) |
+| **Portfolio 2026** | Framer Motion, GSAP | Glassmorphic UI focused on creative storytelling. | [🌐 Demo](https://kalaiarasan-dev.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/portfolio) |
 
 ---
 
-## 📊 GitHub Analytics
+## 🎞️ Knowledge Sharing @CodeWithKalai
+
+I believe in the "Learn in Public" philosophy. I share deep dives into frontend engineering on my YouTube channel.
+
+- 🎥 **React Folder Structure That Scales** - 🎥 **Advanced TypeScript Patterns for UI Devs**
+- 🎥 **Mastering Framer Motion Animations**
+- 🎥 **Figma to Production-Ready Code**
+👉 [**Join the Community on YouTube**](https://youtube.com/@CodeWithKalai)
+
+---
+
+## 📊 Engineering Metrics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalaiarasan-Dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&bg_color=0D1117&ring_color=61DAFB&text_color=C9D1D9" />
@@ -77,79 +78,7 @@ I share my frontend journey on **YouTube** - tutorials, projects, and tips for a
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎞️ Latest YouTube Videos
-
-<p align="center">
-  <a href="https://youtube.com/@CodeWithKalai" target="_blank">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- 🎥 [React Folder Structure That Scales](https://youtube.com/@CodeWithKalai)
-- 🎥 [TypeScript Tips for React Developers](https://youtube.com/@CodeWithKalai)
-- 🎥 [Tailwind CSS Mastery in 30 Minutes](https://youtube.com/@CodeWithKalai)
-- 🎥 [Figma to React: Complete Workflow](https://youtube.com/@CodeWithKalai)
-- 🎥 [Custom Hooks You Need to Know](https://youtube.com/@CodeWithKalai)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-📺 **Subscribe:** [youtube.com/@CodeWithKalai](https://youtube.com/@CodeWithKalai)
-
----
-
-## 💼 Open for Opportunities
-
-I'm actively looking for **Frontend Developer** roles where I can:
-
-- ✅ Build beautiful, responsive web applications
-- ✅ Write clean, maintainable React/TypeScript code
-- ✅ Collaborate with designers and backend teams
-- ✅ Contribute to open source
-- ✅ Mentor junior developers
-
-### What I Offer
-| Skill | Level |
-|-------|-------|
-| React Ecosystem | ⭐⭐⭐⭐⭐ |
-| TypeScript | ⭐⭐⭐⭐⭐ |
-| Responsive Design | ⭐⭐⭐⭐⭐ |
-| Performance Optimization | ⭐⭐⭐⭐ |
-| Team Collaboration | ⭐⭐⭐⭐⭐ |
-| Problem Solving | ⭐⭐⭐⭐ |
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/kalaiarasan10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kalaiarasan-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@CodeWithKalai" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:kalaigurusamy8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Kalaiarasan_Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
@@ -159,13 +88,15 @@ I'm actively looking for **Frontend Developer** roles where I can:
   </picture>
 </p>
 
-<p align="center">
-  <i>The snake eats your contributions! 🐍</i>
-</p>
-
 ---
 
-## 📊 Visitor Count
+## 📫 Let's Collaborate
+
+I am currently open to **Frontend/Software Engineering** opportunities where I can contribute to high-impact products.
+
+- 📧 **Email:** [kalaigurusamy8@gmail.com](mailto:kalaigurusamy8@gmail.com)
+- 🐦 **Twitter:** [@Kalaiarasan_Dev](https://twitter.com/Kalaiarasan_Dev)
+- 💼 **LinkedIn:** [Kalaiarasan](https://linkedin.com/in/kalaiarasan10)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
@@ -173,33 +104,17 @@ I'm actively looking for **Frontend Developer** roles where I can:
 
 ---
 
-## 💬 Favorite Quote
-
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i><br/>
   <b>- John Johnson</b>
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
   <b>⭐ Star my repos if you find them helpful! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</p>
-
----
-
-<p align="center">
-  <i>Developed with 💙 by <b>Kalaiarasan</b></i><br/>
-  <sub>Frontend Developer | React & TypeScript Expert</sub>
 </p>
