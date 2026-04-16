@@ -1,185 +1,99 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=40&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=✦+KALAI+ARASAN+✦;FRONTEND+ARCHITECT;REACT+%2B+TYPESCRIPT;SCALABLE+SAAS+SYSTEMS;PERFORMANCE+ENGINEER" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=42&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=✦+KALAI+ARASAN+✦;FRONTEND+ARCHITECT;CODE+WITH+KALAI;SCALABLE+SAAS+SYSTEMS;PERFORMANCE+ENGINEER" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/◈_FRONTEND_ENGINEER_◈-6366F1?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/◈_SYSTEM_DESIGN_◈-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈_CONTENT_CREATOR_◈-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/◈_UI_ARCHITECTURE_◈-EC4899?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=radical&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <details open>
-    <summary style="list-style: none; cursor: pointer;">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=1&pause=1000&color=6366F1&center=true&vCenter=true&width=200&lines=✦+ABOUT+ME+✦" />
-    </summary>
-    <br/>
-    <pre align="left">
+  <pre align="center">
 ┌─────────────────────────────────────────────────────────────────┐
 │                     KALAI ARASAN                                │
 ├─────────────────────────────────────────────────────────────────┤
-│  ▸ Role:      Senior Frontend Engineer                          │
+│  ▸ Brand:     CodeWithKalai (YouTube)                           │
 │  ▸ Stack:     React 19 • TypeScript 5.6 • Next.js 15            │
-│  ▸ Focus:     Scalable SaaS • Performance • Clean Architecture  │
-│  ▸ Location:  India 🇮🇳 • Remote Worldwide 🌍                    │
-│  ▸ Motto:     "System design — not component assembly"          │
+│  ▸ Focus:     System Architecture & High-Performance UI         │
+│  ▸ Experience: Building Scalable Frontend Systems                │
+│  ▸ Mission:    Bridging the gap between Design & Engineering    │
 └─────────────────────────────────────────────────────────────────┘
-    </pre>
-  </details>
+  </pre>
 </div>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=6366F1&center=true&width=300&lines=✦+CORE+SKILLS+✦" />
+</h2>
+
 <div align="center">
-  <table>
+  <table width="90%">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=14&duration=2000&pause=500&color=6366F1&center=true&width=180&lines=🏗️+Architecture+First" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=14&duration=2000&pause=500&color=8B5CF6&center=true&width=180&lines=⚡+Performance+Driven" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=14&duration=2000&pause=500&color=EC4899&center=true&width=180&lines=🔒+Type+Safe+Always" />
-      </td>
+      <td width="50%"><strong>React Ecosystem</strong> <img src="https://progress-bar.dev/98/" /></td>
+      <td width="50%"><strong>TypeScript</strong> <img src="https://progress-bar.dev/95/" /></td>
+    </tr>
+    <tr>
+      <td><strong>Next.js 15 (App Router)</strong> <img src="https://progress-bar.dev/92/" /></td>
+      <td><strong>System Design</strong> <img src="https://progress-bar.dev/88/" /></td>
+    </tr>
+    <tr>
+      <td><strong>Tailwind & Framer Motion</strong> <img src="https://progress-bar.dev/94/" /></td>
+      <td><strong>Performance Engineering</strong> <img src="https://progress-bar.dev/85/" /></td>
     </tr>
   </table>
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=6366F1&center=true&width=300&lines=✦+TECH+STACK+✦" />
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1E1E2E" />
-  <br/>
-  <img src="https://img.shields.io/badge/REDUX_TOOLKIT-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/ZUSTAND-000000?style=for-the-badge&logo=zustand&logoColor=white&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/TANSTACK_QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=1E1E2E" />
-</div>
+<br/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=8B5CF6&center=true&width=300&lines=✦+SKILL+MATRIX+✦" />
-</h2>
-
-<div align="center">
-  <table width="80%">
-    <tr>
-      <td width="40%">React Ecosystem</td>
-      <td width="60%"><img src="https://progress-bar.dev/95/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td><img src="https://progress-bar.dev/92/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td>System Design</td>
-      <td><img src="https://progress-bar.dev/88/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td>Performance Opt.</td>
-      <td><img src="https://progress-bar.dev/85/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td>Testing Strategy</td>
-      <td><img src="https://progress-bar.dev/80/" width="100%" /></td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=EC4899&center=true&width=350&lines=✦+FEATURED+PROJECTS+✦" />
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">📊 SAAS ANALYTICS</h3>
-        <div align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=12&duration=3000&pause=500&color=6366F1&center=true&width=300&lines=Multi-role+%7C+Real-time+charts+%7C+RBAC" />
-        </div>
-        <p align="center">
-          <code>React 19</code> • <code>TS</code> • <code>TanStack</code>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/ARCHITECTURE-6366F1?style=flat-square" />
-          <img src="https://img.shields.io/badge/OPTIMIZED-8B5CF6?style=flat-square" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🛒 E-COMMERCE</h3>
-        <div align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=12&duration=3000&pause=500&color=EC4899&center=true&width=300&lines=Cart+%7C+Filters+%7C+Modular+UI" />
-        </div>
-        <p align="center">
-          <code>Next.js 15</code> • <code>RTK</code> • <code>Tailwind</code>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/SCALABLE-EC4899?style=flat-square" />
-          <img src="https://img.shields.io/badge/SSR-06B6D4?style=flat-square" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=6366F1&center=true&width=350&lines=✦+GITHUB+METRICS+✦" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=8B5CF6&center=true&width=400&lines=✦+GITHUB+COMMAND+CENTER+✦" />
 </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kalaiarasan-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=6366F1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalaiarasan-Dev&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=EC4899&currStreakLabel=8B5CF6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiarasan-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=8B5CF6&text_color=E2E8F0" width="48%" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiarasan-Dev&theme=react-dark&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&hide_border=true&area=true&area_color=6366F1" width="96%" />
 </div>
 
+<br/>
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=EC4899&center=true&width=300&lines=✦+CURRENT+FOCUS+✦" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=EC4899&center=true&width=350&lines=✦+STAY+CONNECTED+✦" />
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><code>⚡ PERFORMANCE</code><br/><sub>Core Web Vitals</sub></td>
-      <td align="center"><code>🏗️ SYSTEM DESIGN</code><br/><sub>Micro-frontends</sub></td>
-      <td align="center"><code>🚀 NEXT.JS 15</code><br/><sub>Server Components</sub></td>
-      <td align="center"><code>📈 SCALABILITY</code><br/><sub>State Orchestration</sub></td>
-    </tr>
-  </table>
+  <a href="https://youtube.com/@CodeWithKalai">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1E2E" />
+  </a>
+  <a href="https://linkedin.com/in/kalaiarasan10">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1E2E" />
+  </a>
+  <a href="https://github.com/Kalaiarasan-Dev">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1E2E" />
+  </a>
+  <a href="mailto:kalaigurusamy8@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E2E" />
+  </a>
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=2000&pause=1000&color=6366F1&center=true&width=300&lines=✦+CONNECT+WITH+ME+✦" />
-</h2>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/Kalaiarasan-Dev"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1E2E" /></a>
-  <a href="https://linkedin.com/in/kalaiarasan10"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1E2E" /></a>
-  <a href="https://kalaiarasandeveloper.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1E1E2E" /></a>
-  <a href="mailto:kalaigurusamy8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E2E" /></a>
-</div>
-
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=16&duration=3000&pause=1500&color=6366F1&center=true&width=600&lines=✦+Engineering+frontend+systems+that+scale+✦;✦+Check+out+CodeWithKalai+on+YouTube+for+tutorials!+✦" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=16&duration=3000&pause=1500&color=6366F1&center=true&width=600&lines=✦+Engineering+frontend+systems+that+scale+✦;✦+Clean+code.+Clear+architecture.+Better+products.+✦" />
-  <br/>
-  <sub>⚡ <strong>Kalai Arasan</strong> | Frontend Engineer <br/> © 2026 • Built with Next.js & Tailwind</sub>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=PROFILE+VIEWS&color=6366F1&style=flat-square" />
+  <sub>⚡ <strong>Developed by Kalai Arasan</strong> <br/> 
+  © 2026 • Modern UI Architecture • Built with Passion</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=SYSTEM+ACCESSES&color=6366F1&style=flat-square" />
 </div>
