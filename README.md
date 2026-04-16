@@ -61,7 +61,7 @@ A scalable frontend application simulating real-world e-commerce architecture.
 
 **Tech Stack:** React, TypeScript, Redux Toolkit  
 
-🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ecommerce-project
+🔗 GitHub: https://github.com/Kalaiarasan-Dev/ecommerce-project
 
 ---
 
@@ -141,7 +141,7 @@ A scalable frontend application simulating real-world e-commerce architecture.
 
 **Tech Stack:** React, TypeScript, Redux Toolkit  
 
-🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ecommerce-project
+🔗 GitHub: https://github.com/Kalaiarasan-Dev/ecommerce-project
 
 ---
 
@@ -158,7 +158,7 @@ Production-style dashboard built with scalable architecture principles.
 
 **Tech Stack:** React, TypeScript, Vite  
 
-🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/saas-dashboard
+🔗 GitHub: https://github.com/Kalaiarasan-Dev/saas-dashboard
 
 ---
 
@@ -175,7 +175,7 @@ Reusable component library designed for scalable applications.
 
 **Tech Stack:** React, TypeScript  
 
-🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ui-component-system
+🔗 GitHub: https://github.com/Kalaiarasan-Dev/ui-component-system
 
 ---
 
@@ -191,18 +191,17 @@ Reusable component library designed for scalable applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalaiarasan-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalaiarasan-Dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://yourportfolio.com
-
+- 📧 Email: kalaigurusamy8@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/kalaiarasan10
+- 🌐 Portfolio: https://kalaiarasandeveloper.netlify.app
 ---
 
 ## 💡 About My Approach
@@ -252,9 +251,9 @@ Reusable component library designed for scalable applications.
 
 ## 📬 Connect With Me
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://yourportfolio.com
+- 📧 Email: kalaigurusamy8@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/kalaiarasan10
+- 🌐 Portfolio: https://kalaiarasandeveloper.netlify.app
 
 ---
 
