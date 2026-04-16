@@ -1,72 +1,267 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=250&section=header&text=KALAIARASAN&fontSize=90&fontAlignY=40&animation=glitch&fontColor=00f2ff" width="100%" />
+# 👨‍💻 Kalaiarasan
+### Frontend Developer | React | TypeScript
 
-  <br/>
-
-  ## 🌐 [ SYSTEM STATUS: ACTIVE ]
-  ### ⚡ FRONTEND EXECUTOR // UI ARCHITECT ⚡
-  **"Converting high-fidelity Figma holograms into optimized React reality."**
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/OS-WINDOWS_8_X86-00f2ff?style=for-the-badge&logo=windows&logoColor=black" />
-    <img src="https://img.shields.io/badge/RANK-SENIOR_DEV-bc00ff?style=for-the-badge" />
-  </p>
-</div>
-
----
-
-### 📂 SYSTEM_LOG.exe
-- **IDENTITY:** Kalaiarasan (@CodeWithKalai)
-- **OBJECTIVE:** Developing the next-gen **Resource Hub** with Glassmorphism.
-- **FIELD_STRENGTH:** React, TypeScript, and Pixel-Perfect CSS.
-- **FACTION:** **Chennai Super Kings** (Yellow Army) 🏏
-- **CORE_MODULES:** Building scalable apps and high-end YouTube tutorials.
-
----
-
-### 🛠️ TECHNOLOGICAL ARSENAL (NEON_STACK)
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma,js,html,css,git,vite,pr,ae&theme=dark" />
-</div>
-
----
-
-### 📊 DATA_HARVEST (REAL-TIME METRICS)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalaiarasan2026&show_icons=true&theme=cyberpunk&hide_border=false&bg_color=000000&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasan2026&layout=compact&theme=cyberpunk&hide_border=false&bg_color=000000&title_color=bc00ff&text_color=ffffff&icon_color=bc00ff" height="180px" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiarasan2026&theme=cyberpunk&hide_border=false&background=000000&stroke=00f2ff&ring=bc00ff&fire=bc00ff" width="100%" />
-</div>
-
----
-
-### 📡 BROADCASTING: CODEWITHKALAI
-> **"The grid is evolving. Watch the latest transmissions on YouTube."**
-
-- 🟦 **LATEST:** Advanced Glassmorphic UI Walkthrough
-- 🟪 **GITHUB:** Exclusive Premium Source Code Drops
-- 🟦 **STATUS:** Accepting High-End Freelance Missions
-
----
-
-### 📟 ENCRYPTED_CONTACT
 <p align="center">
-  <a href="https://youtube.com/@CodeWithKalai"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kalaiarasan2026"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+TypeScript;Building+Scalable+UI;Focused+on+Clean+Code" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&color=bc00ff&style=flat-square&label=TERMINAL_VISITORS" />
+---
+
+## 🎯 Career Objective
+
+Frontend Developer focused on building **clean, scalable, and maintainable React applications**.
+
+Seeking an entry-level opportunity to:
+- Contribute to real-world frontend systems
+- Write structured and type-safe code
+- Collaborate within engineering teams
+- Continuously improve technical skills
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Core Technologies
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### 🎨 Styling & UI
+- TailwindCSS
+- Responsive Web Design
+- Flexbox & CSS Grid
+
+### 🧠 State Management
+- Redux Toolkit
+- Context API
+
+### ⚙️ Tools & Environment
+- Git & GitHub
+- Vite
+- VS Code
+- Chrome DevTools
+
+---
+
+## 📂 Projects
+
+### 🛒 E-Commerce Frontend Application
+
+**Description:**  
+A scalable frontend application simulating real-world e-commerce architecture.
+
+**Key Implementations:**
+- Component-based structure
+- Cart state management using Redux Toolkit
+- Dynamic product listing
+- Reusable UI components
+- Clean folder architecture
+
+**Tech Stack:** React, TypeScript, Redux Toolkit  
+
+🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ecommerce-project
+
+---
+
+### 📊 SaaS Analytics Dashboard
+
+**Description:**  
+Production-style dashboard built with scalable architecture principles.
+
+**Key Implementations:**
+- Feature-based folder structure
+- Custom reusable hooks
+- Error boundary handling
+- Performance optimization techniques
+
+**Tech Stack:** React, TypeScript, Vite  
+
+🔗 GitHub: https://github.com/# 👨‍💻 Kalaiarasan
+### Frontend Developer | React | TypeScript
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+TypeScript;Building+Scalable+UI;Focused+on+Clean+Code" />
 </p>
+
+---
+
+## 🎯 Career Objective
+
+Frontend Developer focused on building **clean, scalable, and maintainable React applications**.
+
+Seeking an entry-level opportunity to:
+- Contribute to real-world frontend systems
+- Write structured and type-safe code
+- Collaborate within engineering teams
+- Continuously improve technical skills
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Core Technologies
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### 🎨 Styling & UI
+- TailwindCSS
+- Responsive Web Design
+- Flexbox & CSS Grid
+
+### 🧠 State Management
+- Redux Toolkit
+- Context API
+
+### ⚙️ Tools & Environment
+- Git & GitHub
+- Vite
+- VS Code
+- Chrome DevTools
+
+---
+
+## 📂 Projects
+
+### 🛒 E-Commerce Frontend Application
+
+**Description:**  
+A scalable frontend application simulating real-world e-commerce architecture.
+
+**Key Implementations:**
+- Component-based structure
+- Cart state management using Redux Toolkit
+- Dynamic product listing
+- Reusable UI components
+- Clean folder architecture
+
+**Tech Stack:** React, TypeScript, Redux Toolkit  
+
+🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ecommerce-project
+
+---
+
+### 📊 SaaS Analytics Dashboard
+
+**Description:**  
+Production-style dashboard built with scalable architecture principles.
+
+**Key Implementations:**
+- Feature-based folder structure
+- Custom reusable hooks
+- Error boundary handling
+- Performance optimization techniques
+
+**Tech Stack:** React, TypeScript, Vite  
+
+🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/saas-dashboard
+
+---
+
+### 🎨 UI Component System
+
+**Description:**  
+Reusable component library designed for scalable applications.
+
+**Includes:**
+- Button variants
+- Modal system
+- Form input abstraction
+- Theming consistency
+
+**Tech Stack:** React, TypeScript  
+
+🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME/ui-component-system
+
+---
+
+## 📈 Currently Improving
+
+- Advanced TypeScript patterns
+- API integration best practices
+- Performance optimization
+- Unit testing (Jest / React Testing Library)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 🌐 Portfolio: https://yourportfolio.com
+
+---
+
+## 💡 About My Approach
+
+- Focus on clean, readable code
+- Component reusability mindset
+- Scalable folder structures
+- Type-safe development with TypeScript
+- Continuous learning and improvement/saas-dashboard
+
+---
+
+### 🎨 UI Component System
+
+**Description:**  
+Reusable component library designed for scalable applications.
+
+**Includes:**
+- Button variants
+- Modal system
+- Form input abstraction
+- Theming consistency
+
+**Tech Stack:** React, TypeScript  
+
+🔗 GitHub: https://github.com/Kalaiarasan-Dev/ui-component-system
+
+---
+
+## 📈 Currently Improving
+
+- Advanced TypeScript patterns
+- API integration best practices
+- Performance optimization
+- Unit testing (Jest / React Testing Library)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 🌐 Portfolio: https://yourportfolio.com
+
+---
+
+## 💡 About My Approach
+
+- Focus on clean, readable code
+- Component reusability mindset
+- Scalable folder structures
+- Type-safe development with TypeScript
+- Continuous learning and improvement
