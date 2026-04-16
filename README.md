@@ -48,7 +48,7 @@ I specialize in crafting high-performance, accessible, and scalable web architec
 
 | Project | Tech Highlights | Impact | Links |
 | :--- | :--- | :--- | :--- |
-| **Elite-Commerce** | Next.js, Stripe, Zod | SEO optimized; 100/100 Lighthouse score. | [🌐 Demo](https://your-store.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/ecommerce) |
+| **Elite-Commerce** | Next.js, Stripe, Zod | SEO optimized; 100/100 Lighthouse score. | [🌐 Demo](https://your-store.vercel.app) • [📂 Code]( https://kalaiarasan-dev.github.io/e-commerce) |
 | **DataViz Dashboard** | Recharts, Framer, WS | Real-time data streaming with zero lag. | [🌐 Demo](https://analytics-dashboard.netlify.app/) • [📂 Code](https://github.com/Kalaiarasan-Dev/Analytics-Dashboard) |
 | **Design System v1** | Storybook, Tailwind, TS | Reusable UI library for 5+ internal apps. | [🌐 Demo](https://kalaiarasan-dev.vercel.app) • [📂 Code](https://github.com/Kalaiarasan-Dev/portfolio) |
 
