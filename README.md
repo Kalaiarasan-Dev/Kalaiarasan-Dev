@@ -35,10 +35,10 @@
           <h3 style="color: #0EA5E9; margin-top: 0;">🧬 Developer DNA</h3>
           <p style="color: #e6edf3; font-size: 15px; line-height: 1.8;">
             🚀 <b>5+ years</b> crafting production-grade applications<br/>
-            💎 <b>50+ projects</b> delivered with 100% client satisfaction<br/>
+            💎 <b>5 projects</b> delivered with 100% client satisfaction<br/>
             📈 <b>100k+ users</b> served across global platforms<br/>
             🎯 <b>100/100 Lighthouse</b> score specialist<br/>
-            🎥 <b>10k+ subscribers</b> on CodeWithKalai YouTube
+            🎥 <b>237 subscribers</b> on CodeWithKalai YouTube
           </p>
           <div style="background: rgba(14,165,233,0.1); border-radius: 10px; padding: 10px; margin-top: 10px;">
             <p style="color: #8B5CF6; margin: 0;">
