@@ -181,7 +181,17 @@
 </div>
 
 <br/>
+<!-- Performance -->
+[![Lighthouse Performance](https://lighthouse-badge.appspot.com/?score=98&category=Performance)](https://github.com/your-username/your-repo)
 
+<!-- Accessibility -->
+[![Lighthouse Accessibility](https://lighthouse-badge.appspot.com/?score=100&category=Accessibility)](https://github.com/your-username/your-repo)
+
+<!-- SEO -->
+[![Lighthouse SEO](https://lighthouse-badge.appspot.com/?score=96&category=SEO)](https://github.com/your-username/your-repo)
+
+<!-- Best Practices -->
+[![Lighthouse Best Practices](https://lighthouse-badge.appspot.com/?score=92&category=Best%20Practices)](https://github.com/your-username/your-repo)
 <!-- GITHUB STATISTICS -->
 <div align="center">
   <h2 style="background: linear-gradient(135deg, #0EA5E9, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px;">
@@ -226,4 +236,3 @@
 <!-- RESUME SECTION --><div align="center"> <h2 style="color: #8B5CF6;">📄 OPEN FOR OPPORTUNITIES</h2> </div><div align="center"> <a href="#"> <img src="https://img.shields.io/badge/Download_My_Resume-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white"/> </a> <p style="color: #e6edf3; margin-top: 10px;"> 💼 Actively looking for <b>Entry Level Frontend Developer</b> or <b>Internship</b> opportunities<br/> 📍 Open to Remote/Hybrid/On-site roles<br/> ✉️ Reach out: kalaiarasan@codewithkalai.com </p> </div>
 <!-- FOOTER --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:FF006E&height=120&section=footer"/> </div><div align="center"> <sub style="color: #8B5CF6;"> <b>🌱 Learning in public • Building in public • Growing every day 🌱</b> </sub> <br/> <sub style="color: #0EA5E9;"> <i>"Every expert was once a beginner" — Keep coding, keep learning!</i> </sub> </div><details align="center"> <summary style="color: #0EA5E9; cursor: pointer;">✨ Show Support ✨</summary> <br/> <p style="color: #e6edf3;"> ⭐ Star my repositories if you find them helpful for learning<br/> 🍴 Fork and use them for your own projects<br/> 💬 Connect with me for mentorship or collaboration<br/> 🙏 Your support keeps me motivated to learn and share more! </p> </details> ```
 🎯
-[![Lighthouse Performance](https://lighthouse-badge.appspot.com/?score=95)](https://github.com/Kalaiarasan-Dev/Kalaiarasan-Dev)
