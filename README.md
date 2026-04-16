@@ -171,8 +171,8 @@
             ✨ Responsive design • Smooth animations • Contact form
           </p>
           <div>
-            <a href="https://kalaiarasan-dev.github.io/Kalaiarasan-Portfoilo/"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
-            <a href="#"><img src="https://img.shields.io/badge/🌐_DEMO-000000?style=for-the-badge&logo=vercel"/></a>
+            <a href="https://github.com/Kalaiarasan-Dev/Kalaiarasan-Portfoilo"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
+            <a href="https://kalaiarasan-dev.github.io/Kalaiarasan-Portfoilo/"><img src="https://img.shields.io/badge/🌐_DEMO-000000?style=for-the-badge&logo=vercel"/></a>
           </div>
         </div>
       </td>
