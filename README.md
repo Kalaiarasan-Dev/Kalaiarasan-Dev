@@ -21,13 +21,13 @@
 <div align="center">
   
   <!-- Profile Views Counter - Animated -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6E45E2&label=✨+PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&style=for-the-badge&color=6E45E2&label=✨+PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
   
   <!-- Followers with Pulse Animation -->
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=FF6B6B&label=🌟+FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?style=for-the-badge&logo=github&color=FF6B6B&label=🌟+FOLLOWERS" alt="Followers"/>
   
   <!-- Stars Counter -->
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FFD93D&label=⭐+TOTAL+STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/Kalaiarasan-Dev?style=for-the-badge&logo=github&color=FFD93D&label=⭐+TOTAL+STARS" alt="Stars"/>
   
   <!-- Contributions -->
   <img src="https://img.shields.io/badge/🚀_CONTRIBUTIONS-ACTIVE-6E45E2?style=for-the-badge" alt="Contributions"/>
@@ -349,22 +349,22 @@
 <div align="center">
   <h2 style="color: #6E45E2; font-size: 32px;">🌐 CONNECT WITH ME</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/Kalaiarasan_Dev">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <a href="https://linkedin.com/in/Kalaiarasan10E">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/YOUR_USERNAME">
+    <a href="https://twitter.com/Kalaiarasan-Dev">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://dev.to/YOUR_USERNAME">
+    <a href="https://dev.to/Kalaiarasan-DevE">
       <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
-    <a href="https://medium.com/@YOUR_USERNAME">
+    <a href="https://medium.com/Kalaiarasan-Dev">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:your.kalaigurusamy8@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </div>
@@ -404,7 +404,7 @@
   </sub>
   <br/>
   <sub style="color: #FFD93D; font-size: 12px;">
-    © 2026 Your Name • Open Source Enthusiast
+    © 2026 Kalai Arasan • Open Source Enthusiast
   </sub>
 </div>
 
