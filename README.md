@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCxxx?style=social&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
+  <img src="https://img.shields.io/youtube.com/@CodeWithKalai/subscribers/UCxxx?style=social&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
 </p>
 
 ---
