@@ -112,7 +112,7 @@
       </td>
     </tr>
   </table>
-</div>!-- FEATURED PROJECTS - GLASS CARDS -->
+</div>
 <h2 align="center">
   <span style="background: linear-gradient(135deg, #3A86FF, #00F7FF); padding: 0 20px; border-radius: 50px;">
     🚀 FEATURED PROJECTS 🚀
