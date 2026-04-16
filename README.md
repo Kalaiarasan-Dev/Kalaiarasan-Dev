@@ -38,3 +38,15 @@ const kalaiarasan = {
   currentFocus: "Building Scalable E-Commerce Solutions",
   mantra: "Write clean code, ship faster, make users happy ✨"
 };
+
+💼 Core Competencies
+<div align="center">
+Category	Technologies	Proficiency
+Frontend Framework	Next.js, React, Vue.js	██████████ 95%
+Language	TypeScript, JavaScript, HTML5, CSS3	██████████ 98%
+Styling	Tailwind CSS, SCSS, Styled Components	██████████ 95%
+State Management	Zustand, Redux Toolkit, Context API	██████████ 90%
+Payment Integration	Stripe, Razorpay	██████████ 92%
+Testing	Jest, React Testing Library, Cypress	████████░░ 85%
+Tools	Git, Docker, Vercel, Netlify	██████████ 95%
+</div>
