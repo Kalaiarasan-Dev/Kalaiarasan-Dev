@@ -73,7 +73,7 @@ $ cat about.json
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalaiarasan2026&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasan2026&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
 
 </div>
