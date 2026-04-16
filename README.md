@@ -95,7 +95,7 @@ $ cat about.json
 | 🖤 **Venom Portfolio** — Dark-themed aggressive dev portfolio | HTML · CSS · JS | ✅ Live |
 | 💎 **Glassmorphism Portfolio** — Neon glow, custom cursor, scroll reveals | HTML · CSS · JS | ✅ Live |
 | 🟠 **Reddit Profile UI** — Custom Reddit clone with animated interactions | HTML · CSS · JS | ✅ Live |
-| ⚡ **[More on GitHub →](https://github.com/kalaiarasan2026?tab=repositories)** | | |
+| ⚡ **[More on GitHub →](https://github.com/Kalaiarasan-Dev?tab=repositories)** | | |
 
 </div>
 
@@ -121,7 +121,7 @@ $ cat about.json
 | Platform | Link |
 |:---------|:-----|
 | 💼 LinkedIn | [linkedin.com/in/kalaiarasan10](https://linkedin.com/in/kalaiarasan10) |
-| 🐙 GitHub | [github.com/kalaiarasan2026](https://github.com/kalaiarasan2026) |
+| 🐙 GitHub | [github.com/Kalaiarasan-Dev](https://github.com/Kalaiarasan-Dev) |
 | 📺 YouTube | [@CodeWithKalai](https://youtube.com/@CodeWithKalai) |
 | 📍 Location | Erode, Tamil Nadu, India |
 
