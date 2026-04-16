@@ -331,20 +331,20 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&ring_color=0EA5E9&custom_title=⚡%20Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=8B5CF6&currStreakLabel=0EA5E9"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalaiarasan-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=8B5CF6&currStreakLabel=0EA5E9"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 <br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=0EA5E9&line=8B5CF6&point=FFFFFF&area_color=0EA5E9&custom_title=🚀%20Contribution%20Heatmap"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiarasan-Dev&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=0EA5E9&line=8B5CF6&point=FFFFFF&area_color=0EA5E9&custom_title=🚀%20Contribution%20Heatmap"/>
 
 <br/>
 
