@@ -1,128 +1,26 @@
-# Kalai Arasan  
-### Frontend Engineer | React + TypeScript | Scalable SaaS Systems | Performance-Focused UI Architecture
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=00A8FF&center=true&vCenter=true&width=700&lines=Kalai+Arasan;Frontend+Engineer;React+%2B+TypeScript+Architect;Scalable+SaaS+Systems;Performance-Focused+UI+Architecture" alt="Typing Animation" />
+</div>
 
-I design and build scalable, production-grade frontend systems using **React and TypeScript**.  
-My focus is on clean architecture, performance optimization, and maintainable UI systems for SaaS and data-driven applications.
-
-I approach frontend engineering as system design — not component assembly.
-
----
-
-## 🧠 Engineering Focus
-
-- Scalable frontend architecture
-- Feature-based project structure
-- Performance optimization & bundle strategy
-- Type-safe API integration
-- Reusable component systems
-- Maintainable state management
-- Production-ready UI workflows
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Engineer-React%20%7C%20TypeScript-00A8FF?style=for-the-badge&logo=react&logoColor=white" />
+</div>
 
 ---
 
-## ⚙️ Core Tech Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-About%20Me-1E1E2E?style=for-the-badge"><img src="https://img.shields.io/badge/-About%20Me-FFFFFF?style=for-the-badge"></picture>
 
-### Frontend
-- React
-- TypeScript (strict mode)
-- Next.js
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Tailwind CSS
+```typescript
+interface Engineer {
+  role: "Frontend Engineer";
+  focus: ["Scalable SaaS Systems", "Performance-Focused UI Architecture", "Clean Architecture"];
+  philosophy: "System design — not component assembly";
+  mantra: "Maintainability over shortcuts. Scalability over quick fixes.";
+}
 
-### State & Data
-- Redux Toolkit
-- Zustand
-- TanStack Query (React Query)
-- REST API integration
-
-### Architecture & Patterns
-- Feature-based folder structure
-- Custom hooks abstraction
-- Error boundaries
-- Code splitting & lazy loading
-- Role-based routing
-- Environment configuration strategy
-
-### Performance & Optimization
-- Lighthouse optimization
-- Memoization strategy
-- Bundle analysis
-- Render optimization
-- API request deduplication
-
-### Testing
-- Jest
-- React Testing Library
-
----
-
-## 🚀 Selected Projects
-
-### SaaS Analytics Dashboard
-A scalable multi-role dashboard with protected routes, dynamic charts, optimized rendering, and feature-based architecture.
-
-**Highlights:**
-- Type-safe API integration
-- Optimized re-render strategy
-- Modular component system
-- Clean separation of concerns
-
-Tech: React, TypeScript, React Query, Charting libraries
-
----
-
-### E-Commerce Frontend System
-Production-style UI with cart management, filtering system, reusable components, and structured state management.
-
-**Highlights:**
-- Scalable folder architecture
-- Optimized product rendering
-- Responsive UI system
-- Clean API abstraction layer
-
-Tech: React, Redux Toolkit, TypeScript
-
----
-
-## 📈 Engineering Philosophy
-
-I prioritize:
-
-- Maintainability over shortcuts
-- Scalability over quick fixes
-- Clear structure over complexity
-- Performance from day one
-
-A frontend application should scale with growing product requirements and team size — without architectural debt.
-
----
-
-## 🔍 Current Focus
-
-- Advanced performance engineering
-- System design for frontend applications
-- Next.js production workflows
-- Improving frontend scalability patterns
-
----
-
-## 🤝 Collaboration
-
-Open to:
-- Full-time frontend roles
-- Freelance React projects
-- SaaS UI architecture work
-- Performance optimization consulting
-
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/Kalaiarasan-Dev
-- LinkedIn: https://linkedin.com/in/kalaiarasan10
-- Portfolio: https://kalaiarasandeveloper.netlify.app
-
----
-
-> Engineering frontend systems that scale.
+const kalaiArasan: Engineer = {
+  role: "Frontend Engineer",
+  focus: ["Scalable SaaS Systems", "Performance-Focused UI Architecture", "Clean Architecture"],
+  philosophy: "System design — not component assembly",
+  mantra: "Maintainability over shortcuts. Scalability over quick fixes."
+};
