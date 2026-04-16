@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0EA5E9,50:8B5CF6,100:FF006E&text=KALAIARASAN&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Frontend%20Engineer%20%7C%20UI%20Architect%20%7C%20Content%20Creator%20⚡&descAlignY=62&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0EA5E9,50:8B5CF6,100:FF006E&text=KALAIARASAN&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Aspiring%20Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Content%20Creator%20⚡&descAlignY=62&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=0EA5E9&center=true&vCenter=true&random=false&width=900&height=60&lines=💎+Senior+React+Architect;🚀+TypeScript+Master;⚡+Performance+Optimizer;🎥+CodeWithKalai+Creator;🎨+Design+System+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=0EA5E9&center=true&vCenter=true&random=false&width=900&height=60&lines=🌱+Frontend+Developer+in+Training;💻+React+%2B+TypeScript+Learner;🎯+Building+My+First+Projects;🎥+CodeWithKalai+Creator;📚+Always+Learning+New+Things" alt="Typing Animation"/>
 </div>
 
 <br/>
@@ -11,8 +11,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&style=for-the-badge&color=0EA5E9&label=✨+PROFILE+VIEWS+✨" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?style=for-the-badge&logo=github&color=8B5CF6&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20for-Collaborations-0EA5E9?style=for-the-badge&logo=gitbook" alt="Open for Work"/>
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-8B5CF6?style=for-the-badge&logo=upwork" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/Looking%20for-Entry%20Level%20Role-0EA5E9?style=for-the-badge&logo=linkedin" alt="Job Seeking"/>
+  <img src="https://img.shields.io/badge/Open%20for-Internship-8B5CF6?style=for-the-badge&logo=internet" alt="Internship"/>
 </div>
 
 <br/>
@@ -25,27 +25,27 @@
         <td align="center" width="35%" style="padding: 20px;">
           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F1NWJkeW81em43cWxyZHh1cWQxY2s1eHhqeWU0dG53dHl2cWFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 50%; border: 3px solid #0EA5E9; box-shadow: 0 0 20px rgba(14,165,233,0.5);"/>
           <h2 style="color: #0EA5E9; margin: 15px 0 5px;">Kalaiarasan</h2>
-          <p style="color: #8B5CF6; font-weight: bold; font-size: 16px;">✦ Frontend Architect ✦</p>
+          <p style="color: #8B5CF6; font-weight: bold; font-size: 16px;">✦ Aspiring Frontend Developer ✦</p>
           <div style="margin-top: 15px;">
-            <img src="https://img.shields.io/badge/React_Expert-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/TypeScript_Master-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React_Learner-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/TypeScript_Beginner-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           </div>
-         </td>
+          </td>
         <td align="left" style="padding: 20px;">
-          <h3 style="color: #0EA5E9; margin-top: 0;">🧬 Developer DNA</h3>
+          <h3 style="color: #0EA5E9; margin-top: 0;">🧬 About Me</h3>
           <p style="color: #e6edf3; font-size: 15px; line-height: 1.8;">
-            🚀 <b>5+ years</b> crafting production-grade applications<br/>
-            💎 <b>5 projects</b> delivered with 100% client satisfaction<br/>
-            📈 <b>100k+ users</b> served across global platforms<br/>
-            🎯 <b>100/100 Lighthouse</b> score specialist<br/>
-            🎥 <b>237 subscribers</b> on CodeWithKalai YouTube
+            🎓 <b>Recent Graduate</b> passionate about frontend development<br/>
+            💻 <b>Self-taught developer</b> with 1+ year of learning journey<br/>
+            🚀 <b>Currently building</b> my portfolio with real-world projects<br/>
+            📚 <b>Learning:</b> React, TypeScript, Next.js, Tailwind CSS<br/>
+            🎥 <b>Content Creator</b> sharing my coding journey on YouTube
           </p>
           <div style="background: rgba(14,165,233,0.1); border-radius: 10px; padding: 10px; margin-top: 10px;">
             <p style="color: #8B5CF6; margin: 0;">
-              🎯 <b>Current Mission:</b> Building Scalable Design Systems & Mentoring Next-Gen Developers
+              🎯 <b>Current Goal:</b> Land my first Frontend Developer role by building exceptional projects
             </p>
           </div>
-         </td>
+          </td>
       </tr>
     </table>
   </div>
@@ -53,45 +53,51 @@
 
 <br/>
 
-<!-- 3D TECH STACK CARDS -->
+<!-- TECH STACK I'M LEARNING -->
 <div align="center">
   <h2 style="background: linear-gradient(135deg, #0EA5E9, #8B5CF6, #FF006E); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px;">
-    ⚡ CORE TECHNICAL ARCHIVE ⚡
+    📚 CURRENT TECH STACK
   </h2>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,js,html,css,figma,vite,git,vscode,jest,cypress,nodejs,express,mongodb,postgres,prisma,docker,aws,vercel&perline=11" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,js,html,css,figma,vite,git,vscode&perline=6" alt="Tech Stack"/>
+  <p style="color: #8B5CF6; font-size: 14px; margin-top: 10px;">
+    ⭐ Proficient | 🟡 Learning | 🌱 Exploring
+  </p>
 </div>
 
 <br/>
 
-<!-- SKILL MATRIX WITH ANIMATION -->
+<!-- SKILL MATRIX - HONEST ASSESSMENT -->
 <div align="center">
+  <h2 style="color: #0EA5E9;">📊 SKILL ASSESSMENT</h2>
   <table style="width: 90%; max-width: 900px; background: #0D1117; border-radius: 20px; border: 1px solid #30363d;">
     <thead>
       <tr style="background: linear-gradient(90deg, #0EA5E920, #8B5CF620);">
         <th style="padding: 15px; color: #0EA5E9;">Technology</th>
         <th style="padding: 15px; color: #8B5CF6;">Proficiency</th>
-        <th style="padding: 15px; color: #0EA5E9;">Experience</th>
-      </tr>
+        <th style="padding: 15px; color: #0EA5E9;">Status</th>
+       </tr>
     </thead>
     <tbody>
-      <tr><td style="padding: 12px; color: #fff;">React 18+</td><td><progress value="92" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 92%</td><td style="color: #8B5CF6;">4 years</td></tr>
-      <tr><td style="padding: 12px; color: #fff;">TypeScript</td><td><progress value="88" max="100" style="width: 200px; accent-color: #8B5CF6;"></progress> 88%</td><td style="color: #8B5CF6;">3 years</td></tr>
-      <tr><td style="padding: 12px; color: #fff;">Next.js</td><td><progress value="85" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 85%</td><td style="color: #8B5CF6;">2 years</td></tr>
-      <tr><td style="padding: 12px; color: #fff;">Tailwind CSS</td><td><progress value="90" max="100" style="width: 200px; accent-color: #8B5CF6;"></progress> 90%</td><td style="color: #8B5CF6;">3 years</td></tr>
-      <tr><td style="padding: 12px; color: #fff;">Redux/Zustand</td><td><progress value="85" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 85%</td><td style="color: #8B5CF6;">3 years</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">HTML5/CSS3</td><td><progress value="85" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 85%</td><td style="color: #0EA5E9;">✅ Confident</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">JavaScript (ES6+)</td><td><progress value="80" max="100" style="width: 200px; accent-color: #8B5CF6;"></progress> 80%</td><td style="color: #0EA5E9;">✅ Confident</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">React.js</td><td><progress value="75" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 75%</td><td style="color: #8B5CF6;">🟡 Building Projects</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">TypeScript</td><td><progress value="65" max="100" style="width: 200px; accent-color: #8B5CF6;"></progress> 65%</td><td style="color: #8B5CF6;">🟡 Learning</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">Tailwind CSS</td><td><progress value="80" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 80%</td><td style="color: #0EA5E9;">✅ Confident</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">Next.js</td><td><progress value="60" max="100" style="width: 200px; accent-color: #8B5CF6;"></progress> 60%</td><td style="color: #8B5CF6;">🌱 Exploring</td></tr>
+      <tr><td style="padding: 12px; color: #fff;">Git/GitHub</td><td><progress value="75" max="100" style="width: 200px; accent-color: #0EA5E9;"></progress> 75%</td><td style="color: #0EA5E9;">✅ Confident</td></tr>
     </tbody>
   </table>
 </div>
 
 <br/>
 
-<!-- FEATURED PROJECTS WITH INTERACTIVE CARDS -->
+<!-- PROJECTS - REAL PROJECTS YOU CAN BUILD -->
 <div align="center">
   <h2 style="background: linear-gradient(135deg, #0EA5E9, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px;">
-    🚀 FLAGSHIP PRODUCTS
+    🚀 MY PROJECTS
   </h2>
 </div>
 
@@ -99,16 +105,16 @@
   <table style="width: 95%;">
     <tr>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin: 10px; border-left: 4px solid #0EA5E9; transition: transform 0.3s;">
-          <h3 style="color: #0EA5E9;">💎 Elite Commerce Platform</h3>
-          <p style="color: #e6edf3;">Premium e-commerce solution with 100/100 Lighthouse score</p>
+        <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin: 10px; border-left: 4px solid #0EA5E9;">
+          <h3 style="color: #0EA5E9;">🛒 E-Commerce Frontend</h3>
+          <p style="color: #e6edf3;">Complete shopping cart with Redux state management</p>
           <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js"/>
-            <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe"/>
-            <img src="https://img.shields.io/badge/Zod-2D9BF0?style=flat-square"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
           </div>
           <p style="color: #8B5CF6; font-size: 14px;">
-            ✨ 100/100 Lighthouse • 60% Performance Boost • 50k+ Monthly Users
+            ✨ Product listing • Cart functionality • Local storage persistence
           </p>
           <div>
             <a href="#"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -118,19 +124,18 @@
       </td>
       <td width="50%" valign="top">
         <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin: 10px; border-left: 4px solid #8B5CF6;">
-          <h3 style="color: #8B5CF6;">🎨 Aurora Design System</h3>
-          <p style="color: #e6edf3;">Enterprise-grade component library with 100+ components</p>
+          <h3 style="color: #8B5CF6;">📝 Todo App with Firebase</h3>
+          <p style="color: #e6edf3;">Task management app with real-time database</p>
           <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook"/>
-            <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
           </div>
           <p style="color: #8B5CF6; font-size: 14px;">
-            ✨ 100% Test Coverage • 50+ Contributors • 10k+ Downloads
+            ✨ CRUD operations • User authentication • Real-time updates
           </p>
           <div>
             <a href="#"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
-            <a href="#"><img src="https://img.shields.io/badge/📖_STORYBOOK-FF4785?style=for-the-badge&logo=storybook"/></a>
+            <a href="#"><img src="https://img.shields.io/badge/🌐_DEMO-000000?style=for-the-badge&logo=vercel"/></a>
           </div>
         </div>
       </td>
@@ -138,14 +143,14 @@
     <tr>
       <td width="50%" valign="top">
         <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin: 10px; border-left: 4px solid #FF006E;">
-          <h3 style="color: #FF006E;">📊 SaaS Analytics Dashboard</h3>
-          <p style="color: #e6edf3;">Real-time analytics platform for enterprise clients</p>
+          <h3 style="color: #FF006E;">🎬 Movie Search App</h3>
+          <p style="color: #e6edf3;">Search movies using OMDB API</p>
           <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square"/>
-            <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
           </div>
           <p style="color: #8B5CF6; font-size: 14px;">
-            ✨ 60fps Animations • Real-time Updates • 99.9% Uptime
+            ✨ API integration • Search functionality • Responsive design
           </p>
           <div>
             <a href="#"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -155,18 +160,19 @@
       </td>
       <td width="50%" valign="top">
         <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin: 10px; border-left: 4px solid #0EA5E9;">
-          <h3 style="color: #0EA5E9;">🎥 CodeWithKalai Platform</h3>
-          <p style="color: #e6edf3;">Educational platform for frontend developers</p>
+          <h3 style="color: #0EA5E9;">💼 Portfolio Website</h3>
+          <p style="color: #e6edf3;">Personal portfolio showcasing my work</p>
           <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Sanity-1F3E4B?style=flat-square"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
           </div>
           <p style="color: #8B5CF6; font-size: 14px;">
-            ✨ 10k+ Students • 50+ Tutorials • 4.9/5 Rating
+            ✨ Responsive design • Smooth animations • Contact form
           </p>
           <div>
             <a href="#"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github"/></a>
-            <a href="#"><img src="https://img.shields.io/badge/🎥_YOUTUBE-FF0000?style=for-the-badge&logo=youtube"/></a>
+            <a href="#"><img src="https://img.shields.io/badge/🌐_DEMO-000000?style=for-the-badge&logo=vercel"/></a>
           </div>
         </div>
       </td>
@@ -176,40 +182,41 @@
 
 <br/>
 
-<!-- GITHUB STATISTICS WITH FLOATING CARDS -->
+<!-- GITHUB STATISTICS -->
 <div align="center">
   <h2 style="background: linear-gradient(135deg, #0EA5E9, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px;">
-    📊 GITHUB ANALYTICS DASHBOARD
+    📊 GITHUB ACTIVITY
   </h2>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kalaiarasan-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&ring_color=0EA5E9&custom_title=⚡%20Commit%20History&border_radius=15" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kalaiarasan-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&ring_color=0EA5E9&custom_title=⚡%20My%20Stats&border_radius=15" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalaiarasan-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=8B5CF6&currStreakLabel=0EA5E9&border_radius=15" alt="Streak Stats"/>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiarasan-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_radius=15" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Kalaiarasan-Dev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <br/>
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiarasan-Dev&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=0EA5E9&line=8B5CF6&point=FFFFFF&area_color=0EA5E9&custom_title=🚀%20Contribution%203D%20Heatmap&border_radius=15" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiarasan-Dev&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=0EA5E9&line=8B5CF6&point=FFFFFF&area_color=0EA5E9&custom_title=🚀%20Learning%20Journey&border_radius=15" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
-<!-- WEEKLY CODING ACTIVITY -->
+<!-- LEARNING ROADMAP -->
 <div align="center">
-  <h2 style="color: #0EA5E9;">💻 WEEKLY CODING METRICS</h2>
+  <h2 style="color: #0EA5E9;">📚 LEARNING ROADMAP</h2>
 </div>
 
 ```text
-React/Next.js    14 hrs ████████████████████████░░  68%
-TypeScript        5 hrs ██████████░░░░░░░░░░░░░░░  24%
-Tailwind/CSS      3 hrs ██████░░░░░░░░░░░░░░░░░░░  14%
-Testing/Jest      2 hrs ████░░░░░░░░░░░░░░░░░░░░░  10%
-Architecture      1 hr  ██░░░░░░░░░░░░░░░░░░░░░░░   5%
+✅ HTML/CSS Fundamentals    ████████████████████ 100%
+✅ JavaScript ES6+          ████████████████████  90%
+✅ React Basics             ████████████████░░░░  80%
+🟡 TypeScript               ████████████░░░░░░░░  60%
+🟡 Next.js                  ██████████░░░░░░░░░░  50%
+🌱 Backend Basics (Node.js) ██████░░░░░░░░░░░░░░  30%
+🌱 Testing (Jest)           ████░░░░░░░░░░░░░░░░  20%
