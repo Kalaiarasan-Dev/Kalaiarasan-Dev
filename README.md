@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=0EA5E9&center=true&vCenter=true&random=false&width=900&height=60&lines=💎+Senior+React+Architect;🚀+TypeScript+Master;⚡+Performance+Optimizer;🎥+CodeWithKalai+Creator;🎨+Design+System+Builder" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=0EA5E9&center=true&vCenter=true&random=false&width=900&height=60&lines=💎+Senior+React+Architect;🚀+TypeScript+Master;⚡+Performance+Optimizer;🎥+CodeWithKalai+Creator;🎨+Design+System+Builder" />
 </div>
 
 <br/>
