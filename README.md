@@ -69,51 +69,50 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<!-- SKILL MATRIX - MODERN PROGRESS BARS -->
-<h2 align="center">
-  <span style="background: linear-gradient(135deg, #FF006E, #8338EC); padding: 0 20px; border-radius: 50px;">
-    📊 SKILL MATRIX 📊
-  </span>
-</h2>
+## 📊 SKILL MATRIX
 
 <div align="center">
-  <table width="90%" style="background: rgba(0,0,0,0.3); border-radius: 20px; padding: 10px;">
+  <table width="95%">
     <tr>
-      <td width="35%"><strong style="color:#00F7FF">React Ecosystem</strong></td>
-      <td width="65%"><img src="https://progress-bar.dev/98/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#00F7FF">TypeScript</strong></td>
-      <td><img src="https://progress-bar.dev/96/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#FF006E">Next.js (App Router)</strong></td>
-      <td><img src="https://progress-bar.dev/94/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#8338EC">System Design</strong></td>
-      <td><img src="https://progress-bar.dev/90/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#3A86FF">Performance Engineering</strong></td>
-      <td><img src="https://progress-bar.dev/88/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#FF006E">UI/UX Architecture</strong></td>
-      <td><img src="https://progress-bar.dev/92/" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><strong style="color:#00F7FF">Testing Strategy</strong></td>
-      <td><img src="https://progress-bar.dev/85/" width="100%" /></td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3 style="color:#00F7FF">⚛️ React</h3>
+          <img src="https://img.shields.io/badge/98%-Expert-00F7FF?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#00F7FF">📘 TypeScript</h3>
+          <img src="https://img.shields.io/badge/96%-Expert-00F7FF?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#00F7FF">▲ Next.js</h3>
+          <img src="https://img.shields.io/badge/94%-Advanced-00F7FF?style=flat-square" width="90%"/>
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3 style="color:#FF006E">🏗️ System Design</h3>
+          <img src="https://img.shields.io/badge/90%-Advanced-FF006E?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#FF006E">⚡ Performance</h3>
+          <img src="https://img.shields.io/badge/88%-Advanced-FF006E?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#FF006E">🎨 UI/UX</h3>
+          <img src="https://img.shields.io/badge/92%-Expert-FF006E?style=flat-square" width="90%"/>
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3 style="color:#8338EC">🧪 Testing</h3>
+          <img src="https://img.shields.io/badge/85%-Proficient-8338EC?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#8338EC">🎨 Tailwind</h3>
+          <img src="https://img.shields.io/badge/94%-Expert-8338EC?style=flat-square" width="90%"/>
+          <br/><br/>
+          <h3 style="color:#8338EC">📦 State Mgmt</h3>
+          <img src="https://img.shields.io/badge/92%-Expert-8338EC?style=flat-square" width="90%"/>
+        </div>
+      </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-<!-- FEATURED PROJECTS - GLASS CARDS -->
+</div>!-- FEATURED PROJECTS - GLASS CARDS -->
 <h2 align="center">
   <span style="background: linear-gradient(135deg, #3A86FF, #00F7FF); padding: 0 20px; border-radius: 50px;">
     🚀 FEATURED PROJECTS 🚀
