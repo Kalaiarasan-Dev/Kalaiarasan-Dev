@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalaiarasan-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Kalaiarasan-Dev?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/youtube.com/@CodeWithKalai/subscribers/UCxxx?style=social&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
+  <img src="https://img.shields.io/https://youtube.com/@CodeWithKalai/subscribers/UCxxx?style=social&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
 </p>
 
 ---
@@ -26,3 +26,18 @@ const kalaiarasan = {
   currentlyLearning: ["Advanced React Patterns", "Next.js", "Backend Development"],
   funFact: "I turn coffee into code and tutorials! ☕ → 💻"
 };
+
+🔭 I'm currently working on exciting frontend projects & YouTube content
+
+🌱 Learning Full Stack Development to expand my horizons
+
+👯 Looking to collaborate on open source projects
+
+💬 Ask me about React, JavaScript, Tailwind CSS, UI/UX
+
+⚡ Fun fact: Procoder09 - where code meets creativity!
+
+🚀 Featured Projects
+     <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F7FF&center=true&width=200&lines=Modern+UI+Portfolio" /> <br /> <sub>Responsive • Animated • Production Ready</sub> </td> <td align="center" width="33%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F7FF&center=true&width=200&lines=Procoder09+YouTube" /> <br /> <sub>Frontend Tutorials • Coding Tips</sub> </td> <td align="center" width="33%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F7FF&center=true&width=200&lines=Full+Stack+Projects" /> <br /> <sub>MERN • Python • MySQL</sub> </td> </tr> </table> </div>
+🛠️ Tech Stack & Skills
+
